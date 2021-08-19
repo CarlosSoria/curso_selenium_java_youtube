@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests.Tests" duration-ms="33790" started-at="2021-08-19T10:17:47 CST" finished-at="2021-08-19T10:18:21 CST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33790" started-at="2021-08-19T10:17:47 CST" finished-at="2021-08-19T10:18:21 CST">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Tests@3327bd23]" name="setUp" is-config="true" duration-ms="4893" started-at="2021-08-19T10:17:47 CST" finished-at="2021-08-19T10:17:52 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CrearTipoDireccionConInformacionBasica()[pri:0, instance:tests.Tests@3327bd23]" name="CrearTipoDireccionConInformacionBasica" duration-ms="28767" started-at="2021-08-19T10:17:52 CST" finished-at="2021-08-19T10:18:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrearTipoDireccionConInformacionBasica -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Tests@3327bd23]" name="tearDown" is-config="true" duration-ms="87" started-at="2021-08-19T10:18:21 CST" finished-at="2021-08-19T10:18:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.Tests -->
+</testng-results>
